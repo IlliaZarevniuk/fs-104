@@ -6,6 +6,20 @@ body {
     color:#434455
 }
 
-body{
+body {
     background-color: #FFFFFF;
+}
+
+header {
+    font-family: "Raleway", sans-serif;
+}
+
+.header-menu-link {
+    color: #4d5ae5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
